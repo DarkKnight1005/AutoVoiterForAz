@@ -14,7 +14,7 @@ while True:
 
     id_box_select.click()
 
-    id_box_submit[3].click()
+    id_box_submit[3].click() 
 
     time.sleep(10)
 
