@@ -1,4 +1,4 @@
-# AutoVoiterForAz
+# AutoVoterForAz
 
 ## Description
 
