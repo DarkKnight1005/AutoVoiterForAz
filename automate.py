@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 # Using Chrome to access web
-url = input()
+url = input("Input exact path of the Chrome Driver : ")
 
 while True:
     driver = webdriver.Chrome(executable_path=url)
