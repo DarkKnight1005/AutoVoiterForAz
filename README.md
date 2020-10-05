@@ -19,7 +19,7 @@ Copy Path to downloaded ChromeDriver
 ```
 cd AutoVoiterForAz
 
-sudo pip3 install -r requirement.txt
+sudo pip3 install -r requirements.txt
 
 sudo python3 automate.py
 ```
