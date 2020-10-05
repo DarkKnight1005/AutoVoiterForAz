@@ -1,6 +1,9 @@
 # AutoVoiterForAz
 
-Instalation Guide for Unix-based systems (Linux/MacOS) and for Windows 10 with installed Ubuntu terminal
+## Description
+
+This script will open Google Chrome session and vote for Azerbaijan at https://echo.msk.ru/polls/2720047-echo.html and after vote completed it will terminate this session and open another one.
+
 
 ## Requirements
 
@@ -9,20 +12,22 @@ Google Chrome
 
 ## Instalation Giude
 
-```
-git clone https://github.com/DarkKnight1005/AutoVoiterForAz.git
+Instalation Guide for Unix-based systems (Linux/MacOS) and for Windows 10 with installed Ubuntu terminal
 
-chmod -R 755 AutoVoiterForAz
+```
+git clone https://github.com/DarkKnight1005/AutoVoterForAz.git
+
+chmod -R 755 AutoVoterForAz
 ```
 
 Download ChromeDriver from 
-```
+
 https://chromedriver.chromium.org/downloads
-```
+
 ChromeDriver's path will be needed for inputing to the script after execution
 
 ```
-cd AutoVoiterForAz
+cd AutoVoterForAz
 
 sudo pip3 install -r requirements.txt
 
